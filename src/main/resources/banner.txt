@@ -1,0 +1,17 @@
+                                                                                                                             
+        GGGGGGGGGGGGG        GGGGGGGGGGGGGHHHHHHHHH     HHHHHHHHH     VVVVVVVV           VVVVVVVV   AAA               PPPPPPPPPPPPPPPPP   
+     GGG::::::::::::G     GGG::::::::::::GH:::::::H     H:::::::H     V::::::V           V::::::V  A:::A              P::::::::::::::::P  
+   GG:::::::::::::::G   GG:::::::::::::::GH:::::::H     H:::::::H     V::::::V           V::::::V A:::::A             P::::::PPPPPP:::::P 
+  G:::::GGGGGGGG::::G  G:::::GGGGGGGG::::GHH::::::H     H::::::HH     V::::::V           V::::::VA:::::::A            PP:::::P     P:::::P
+ G:::::G       GGGGGG G:::::G       GGGGGG  H:::::H     H:::::H        V:::::V           V:::::VA:::::::::A             P::::P     P:::::P
+G:::::G              G:::::G                H:::::H     H:::::H         V:::::V         V:::::VA:::::A:::::A            P::::P     P:::::P
+G:::::G              G:::::G                H::::::HHHHH::::::H          V:::::V       V:::::VA:::::A A:::::A           P::::PPPPPP:::::P 
+G:::::G    GGGGGGGGGGG:::::G    GGGGGGGGGG  H:::::::::::::::::H           V:::::V     V:::::VA:::::A   A:::::A          P:::::::::::::PP  
+G:::::G    G::::::::GG:::::G    G::::::::G  H:::::::::::::::::H            V:::::V   V:::::VA:::::A     A:::::A         P::::PPPPPPPPP    
+G:::::G    GGGGG::::GG:::::G    GGGGG::::G  H::::::HHHHH::::::H             V:::::V V:::::VA:::::AAAAAAAAA:::::A        P::::P            
+G:::::G        G::::GG:::::G        G::::G  H:::::H     H:::::H              V:::::V:::::VA:::::::::::::::::::::A       P::::P            
+ G:::::G       G::::G G:::::G       G::::G  H:::::H     H:::::H               V:::::::::VA:::::AAAAAAAAAAAAA:::::A      P::::P            
+  G:::::GGGGGGGG::::G  G:::::GGGGGGGG::::GHH::::::H     H::::::HH              V:::::::VA:::::A             A:::::A   PP::::::PP          
+   GG:::::::::::::::G   GG:::::::::::::::GH:::::::H     H:::::::H               V:::::VA:::::A               A:::::A  P::::::::P          
+     GGG::::::GGG:::G     GGG::::::GGG:::GH:::::::H     H:::::::H                V:::VA:::::A                 A:::::A P::::::::P          
+        GGGGGG   GGGG        GGGGGG   GGGGHHHHHHHHH     HHHHHHHHH                 VVVAAAAAAA                   AAAAAAAPPPPPPPPPP          

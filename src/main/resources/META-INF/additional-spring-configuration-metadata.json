@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "server.contextPath",
+    "type": "java.lang.String",
+    "description": "A description for 'server.contextPath'"
+  },
+  {
+    "name": "flyway.locations",
+    "type": "java.lang.String",
+    "description": "A description for 'flyway.locations'"
+  },
+  {
+    "name": "flyway.schemas",
+    "type": "java.lang.String",
+    "description": "A description for 'flyway.schemas'"
+  },
+  {
+    "name": "flyway.table",
+    "type": "java.lang.String",
+    "description": "A description for 'flyway.table'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "vzaar.clientid",
+    "type": "java.lang.String",
+    "description": "A description for 'vzaar.clientid'"
+  },
+  {
+    "name": "vzaar.token",
+    "type": "java.lang.String",
+    "description": "A description for 'vzaar.token'"
+  },
+  {
+    "name": "springfox.documentation.swagger.v2.path",
+    "type": "java.lang.String",
+    "description": "A description for 'springfox.documentation.swagger.v2.path'"
+  },
+  {
+    "name": "virtok.run-scheduled-tasks",
+    "type": "java.lang.String",
+    "description": "A description for 'virtok.run-scheduled-tasks'"
+  }
+]}

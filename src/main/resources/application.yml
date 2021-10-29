@@ -1,0 +1,96 @@
+#Used for all profiles     
+server:
+    contextPath: /virtok/v1
+    port: 8080
+    ssl:
+        enabled: false
+        key-alias: ggh
+        key-password: 123456
+        key-store: classpath:keystore.p12
+        key-store-password: 123456
+        key-store-type: PKCS12
+spring:
+    servlet:
+        multipart:
+            max-file-size: 500MB
+            max-request-size: 500MB
+    jpa:
+      properties:
+        hibernate:
+            show-sql: true
+            default-schema: virtok
+            generate-statistics: false
+            order-inserts: true
+            jdbc:
+                batch-size: 10
+    batch:
+        jdbc:
+            initialize-schema: always
+        job:
+            enabled: false
+flyway:
+    locations: classpath:db/migration
+    schemas: virtok
+    table: flyway_schema_history
+jwt:
+    secret: PCgknsaZ6lrU%5Y9Rpj
+vzaar:
+    clientid: purse-pyrite-toot
+    token: oRY5jwZKsiFiFj1V_Bh7
+opentok:
+    api:
+        key: 46042042
+    secret: eefa167ea8d88952f1a20f1b0ad95086581c8222
+sendgrid:
+    enabled: true
+    api:
+        key: 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
+springfox:
+    documentation:
+        swagger:
+            v2:
+                path: /api-docs
+ 
+#'dev' profile only 
+--- 
+spring.profiles: dev 
+virtok:
+    run-scheduled-tasks: false
+spring:
+    datasource:
+        type: com.zaxxer.hikari.HikariDataSource
+        password: h1SBWkFE5J11
+        url: jdbc:postgresql://localhost:5432/gghva_demo?currentSchema=ggh_vap
+        username: gghvap
+        hikari:
+            connection-timeout: 30000
+            idle-timeout: 30000
+            minimum-idle: 5
+            maximum-pool-size: 20
+            leak-detection-threshold: 1000
+            pool-name: VAPPOOL
+            max-lifetime: 2000000
+host:
+    name: localhost:8080
+
+#'prod' profile only 
+--- 
+spring.profiles: prod 
+virtok:
+    run-scheduled-tasks: false
+spring:
+    datasource:
+        type: com.zaxxer.hikari.HikariDataSource
+        password: h1SBWkFE5J11
+        url: jdbc:postgresql://localhost:5432/gghva_demo?currentSchema=ggh_vap
+        username: gghvap
+        hikari:
+            connection-timeout: 30000
+            idle-timeout: 30000
+            minimum-idle: 5
+            maximum-pool-size: 20
+            leak-detection-threshold: 1000
+            pool-name: VAPPOOL
+            max-lifetime: 2000000
+host:
+    name: localhost:8080
